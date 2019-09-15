@@ -6,7 +6,7 @@ html {
 body {
   width: 750px;
   max-width: 90%;
-  margin: auto;
+  margin: 0 auto;
   padding: 1em;
 
 
@@ -19,8 +19,8 @@ body, pre, pre code {
   font-size: 18px;
 }
 
-a, a:visited {
-  color: #48820f;
+a, a:hover {
+  color: #333;
 }
 
 h1 {
