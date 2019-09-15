@@ -2,19 +2,6 @@ html {
   background-color: #fefffd;
 }
 
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
-<body>
-
-<div class="content">
-</div>
-
-</body>
-
 body {
   width: 750px;
   max-width: 90%;
