@@ -2,6 +2,11 @@ html {
   background-color: #fefffd;
 }
 
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
 body {
   width: 750px;
   max-width: 90%;
