@@ -32,8 +32,8 @@ h2 {
   border-bottom-width: 5px;
 }
 
-img, audio, iframe {
-  width: 80%;
+img, {
+  width: 300;
   height: auto;
 }
 
@@ -55,5 +55,3 @@ img, audio, iframe {
   height: 100%;
 }
 
-#Tombe-Phileros { width: 300px; height: auto;
-}
