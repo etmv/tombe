@@ -34,6 +34,7 @@ h2 {
 
 img, audio, iframe {
   width: 100%;
+  height: auto;
 }
 
 .video-container {
