@@ -32,9 +32,12 @@ h2 {
   border-bottom-width: 5px;
 }
 
-img, {
+img {
   width: auto;
   height: auto;
 }
 
+.fit-picture {
+  width: 250px;
+}
 
