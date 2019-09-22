@@ -33,7 +33,7 @@ h2 {
 }
 
 img, audio, iframe {
-  width: 50%;
+  width: 100%;
 }
 
 .video-container {
