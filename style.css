@@ -55,3 +55,8 @@ img, {
   height: 100%;
 }
 
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
