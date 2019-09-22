@@ -32,7 +32,7 @@ h2 {
   border-bottom-width: 5px;
 }
 
-img, {
+img.displayed {
   width: 300;
   height: auto;
   display: block;
