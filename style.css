@@ -28,6 +28,10 @@ h1 {
   color: rgb(100, 5, 14);
 }
 
+h1 {
+  text-align: center
+}
+
 h2 {
   border-bottom-width: 5px;
 }
