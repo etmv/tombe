@@ -24,10 +24,6 @@ a, a:hover {
 }
 
 h1 {
-  text-align: center
-}
-
-h1 {
   border-bottom-width: 10px;
   color: rgb(100, 5, 14);
 }
