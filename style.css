@@ -33,8 +33,7 @@ h2 {
 }
 
 img {
-  width: auto;
-  height: auto;
+  width: 100%;
 }
 
 .fit-picture {
