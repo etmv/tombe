@@ -44,6 +44,12 @@ h2 {
   float: right;
 }
 
+#Achterkant-tombe-Phileros {
+  widht: 250;
+  height: auto;
+  float: right;
+}
+
 * {
   box-sizing: border-box;
 }
