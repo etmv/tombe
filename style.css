@@ -51,8 +51,10 @@ h2 {
 }
 
 #Vesuvius {
-  width: 750;
+  width: 40%;
   height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 * {
