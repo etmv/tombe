@@ -61,6 +61,17 @@ h2 {
   display: table;
 }
 
+.colum {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.rij::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .topnav {
   background-color: rgb(100, 5, 14);
