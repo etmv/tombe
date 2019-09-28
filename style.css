@@ -67,6 +67,7 @@ h2 {
   padding: 10px;
 }
 
+/* Clearfix (clear floats) *//
 .rij::after {
   content: "";
   clear: both;
