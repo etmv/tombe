@@ -38,6 +38,9 @@ h2 {
   float: right; 
 }
 
+* {
+  box-sizing: border-box;
+}
 
 .column {
   float: left;
