@@ -38,6 +38,12 @@ h2 {
   float: right; 
 }
 
+#Standbeelden-Phileros {
+  width: 250;
+  height: auto;
+  float: right;
+}
+
 * {
   box-sizing: border-box;
 }
